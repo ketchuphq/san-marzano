@@ -2,5 +2,25 @@
   "name": "san-marzano",
   "description": "Basic Ketchup template",
   "templates": {
+    "home.html": {
+      "placeholders": [
+        {
+          "key": "content",
+          "text": {
+            "type": "markdown"
+          }
+        }
+      ]
+    },
+    "page.html": {
+      "placeholders": [
+        {
+          "key": "content",
+          "text": {
+            "type": "markdown"
+          }
+        }
+      ]
+    }
   }
 }
