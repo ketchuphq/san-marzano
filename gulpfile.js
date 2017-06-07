@@ -4,4 +4,4 @@ require('./gulp/js')
 require('./gulp/css')
 require('./gulp/html')
 
-gulp.task('default', ['js:webpack'])
+gulp.task('default', ['js:webpack', 'html', 'css', 'images'])
