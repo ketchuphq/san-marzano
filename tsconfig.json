@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "module": "es2015",
-    "target": "es5",
-    "jsx": "react",
-    "noUnusedParameters": true,
-    "noUnusedLocals": true
-  }
-}
