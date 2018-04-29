@@ -1,5 +1,15 @@
 {
   "name": "san-marzano",
+  "package": {
+    "type": "theme",
+    "name": "san-marzano",
+    "authors": ["octavore"],
+    "description": "Basic Ketchup template",
+    "homepage": "https://github.com/ketchuphq/san-marzano",
+    "vcs_url": "https://github.com/ketchuphq/san-marzano.git",
+    "screenshot_urls": [],
+    "ketchup_version": ">=0.3.0"
+  },
   "description": "Basic Ketchup template",
   "templates": {
     "home.html": {
