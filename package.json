@@ -1,4 +1,14 @@
 {
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+      "semi": "warn"
+    }
+  },
   "dependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
