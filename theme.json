@@ -3,7 +3,7 @@
   "package": {
     "type": "theme",
     "name": "san-marzano",
-    "authors": ["octavore"],
+    "authors": [{"github": "octavore"}],
     "description": "Basic Ketchup template",
     "homepage": "https://github.com/ketchuphq/san-marzano",
     "vcs_url": "https://github.com/ketchuphq/san-marzano.git",
